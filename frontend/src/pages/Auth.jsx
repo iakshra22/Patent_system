@@ -40,7 +40,6 @@ const Auth = () => {
                 <div className='relative'>
                   <input className=' w-full px-4 py-2 border border-gray-300 outline-none placeholder:text-sm placeholder:text-gray-600' placeholder='Enter password' type="password"/>
                   <buttton className='absolute top-3 right-3'>
-                    <FaEye/>
                   </buttton>
                 </div>
               </div>
