@@ -1,7 +1,12 @@
-import Register from "./pages/register";
+import React from "react"
+import Auth from "./pages/auth.jsx"
 
-function App() {
-  return <Register />;
+const App = () => {
+  return (
+    <div>
+      <Auth />
+    </div>
+  )
 }
 
-export default App;
+export default App
