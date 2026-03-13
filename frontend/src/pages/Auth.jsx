@@ -122,6 +122,8 @@ const Auth = () => {
                     <option>School of Humanities</option>
                     <option>School of Commerce</option>
                     <option>School of Biotechnology</option>
+                    <option>School of Fashion Desining</option>
+                    <option>School of Hotel Management</option>
                   </select>
                 </div>
 
