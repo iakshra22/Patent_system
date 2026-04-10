@@ -9,7 +9,6 @@ The **SAP-2025 Automation System** is a web-based platform developed to automate
 - 🧑‍🏫 Faculty performance record creation for each academic year  
 - 📖 Teaching activity management  
 - 🔬 Research and patent record tracking  
-- 🎓 Self-development activity logging (FDPs, workshops, certifications)  
 - 📂 Secure document upload with validation  
 - 🏢 Multi-level approval workflow (HoD → Principal → Director → Chairman)  
 - 📊 Institutional analytics dashboard for faculty and research performance  
