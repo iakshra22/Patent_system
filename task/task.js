@@ -1,4 +1,4 @@
-let userName = prompt("Please type your name:");
+let userName = prompt("Please enter your name:");
 let userRole = prompt("Enter your designation (HOD / Faculty / Student):");
 console.log("User Name ->", userName);
 console.log("User Role ->", userRole);
