@@ -34,20 +34,6 @@ The system is divided into several modules to handle different functionalities:
 
 ---
 
-## 🔮 Future Scope
-- 🔗 Integration with institutional **ERP systems**  
-- 📊 Advanced **analytics dashboards** for deeper performance insights  
-- 🤖 **AI-based faculty performance analysis**  
-- 📈 Automated research impact evaluation  
-- 📱 Mobile application support for easier accessibility  
-
----
-
-## 👩‍💻 Author
-Developed as part of the **SAP-2025 Automation System Project** to streamline faculty performance evaluation and institutional analytics.
-
----
-
 ## 🚧 Project Status
 ⚙ **Project is currently in progress and under active development.**  
 More features, optimizations, and improvements will be added soon.  
