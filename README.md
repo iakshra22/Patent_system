@@ -34,8 +34,4 @@ The system is divided into several modules to handle different functionalities:
 
 ---
 
-## 🚧 Project Status
-⚙ **Project is currently in progress and under active development.**  
-More features, optimizations, and improvements will be added soon.  
-
 Thank you for visiting this project....Stay tuned! 👋!  
