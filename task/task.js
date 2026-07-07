@@ -25,7 +25,7 @@ for (let i=0;i<filelist.length;i++){
 
 
 const patentCategory = prompt("Enter patent type (granted/published):");
-const international = prompt("Is it an international patent? (y/n):");
+const international = prompt("Is it an international patent? (y/n)[y for yes and n for no]:");
 
 function getMarks(type, status) {
     let totalMarks = 0;
